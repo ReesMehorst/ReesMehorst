@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Mees from the Netherlands<br><br>- 🔭 I’m studying HBO-ICT at The Hague University of Applied Sciences<br>- 📚 I'm currently learning Data Engineering & Artificial Intelligence<br>- ⚡ I'm currently working on a end-to-end datapipeline</p>
+<p align="left">I'm Mees from the Netherlands<br><br>- 🔭 I’m studying HBO-ICT at The Hague University of Applied Sciences<br>- 📚 I'm currently learning Data Engineering & Artificial Intelligence<br>- ⚡ I'm currently working on a full-stack webapplication with AI-features for motorcycle enthousiasts!</p>
 
 ###
 
