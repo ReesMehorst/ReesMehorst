@@ -40,7 +40,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ReesMehorst&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  ![GitHub Stats](https://ghstats.dev/api/card?username=ReesMehorst)
 </div>
 
 ###
