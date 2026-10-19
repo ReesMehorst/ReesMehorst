@@ -40,7 +40,7 @@
 ###
 
 <div align="center">
-  ![GitHub Stats](https://ghstats.dev/api/card?username=ReesMehorst)
+  <img src="https://ghstats.dev/api/card?username=reesmehorst" alt="GitHub Stats Card" />
 </div>
 
 ###
