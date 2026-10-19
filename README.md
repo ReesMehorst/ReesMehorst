@@ -32,7 +32,9 @@
 
 ###
 
-<p align="left">I'm Mees from the Netherlands<br><br>- 🔭 I’m studying HBO-ICT at The Hague University of Applied Sciences<br>- 📚 I'm currently learning Data- & AI-Driven healthcare innovation<br>- ⚡ I'm currently working on a full-stack webapplication with AI-features for motorcycle enthousiasts!</p>
+<p align="left">I'm Mees from the Netherlands<br><br>- 🔭 I’m a third year HBO-ICT student at The Hague University of Applied Sciences<br>- 📚 I'm currently learning Data- & AI-Driven healthcare innovation at Hogeschool Rotterdam<br>- ⚡ I'm currently working on a full-stack application for motorcycle enthousiasts! <a href="https://motosphere.nl/" target="_blank">
+    MotoSphere.nl
+  </a</p>
 
 ###
 
