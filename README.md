@@ -1,36 +1,32 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NW5rcWlydGQ1c3g2ZGx1Zm9oZ2xkcnhlbXZhOGVsdnZxbnp4MzY5ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/g88xUM1rTwjfLhoRYP/giphy.gif" alt="animated banner" />
-</div>
+<h1 align="center">Hey, I'm Mees 👋</h1>
+<p align="center"><i>HBO-ICT student building full-stack applications, data pipelines and small dev tools.</i></p>
 
-<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/meesrehorst"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/reesmehorst/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://motosphere.nl/"><img src="https://img.shields.io/badge/MotoSphere.nl-000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="MotoSphere" /></a>
+</p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/meesrehorst" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/reesmehorst/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="Instagram" />
-  </a>
-</div>
+### 🚀 Currently working on
+- 🏍️ **[MotoSphere](https://motosphere.nl/)** : a full-stack platform for motorcycle enthusiasts
+- 🧹 **[Bezem](https://github.com/ReesMehorst/Bezem)** : lightweight, open-source Windows PC cleaner in Rust
+- 🩺 Data- & AI-driven healthcare innovation minor at Hogeschool Rotterdam
 
-<br>
+### 📌 Featured
+| Project | What |
+|---|---|
+| [BatchDashboard](https://github.com/ReesMehorst/BatchDashboard) | Colourful Windows CLI launcher in Batch |
+| [Hook-Horizon](https://github.com/ReesMehorst/Hook-Horizon) | Fishing game in Unity with mutations, biomes and upgradable rods |
+| [MatchFlow](https://github.com/ReesMehorst/MatchFlow) | Esports social platform: teams, fixtures, feed (.NET + React) |
+| [claude-mods](https://github.com/ReesMehorst/claude-mods) | Claude Code mods: usage band and live GitHub pane |
+| [DEAI](https://github.com/ReesMehorst/DEAI) | Data Engineering & AI coursework |
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ReesMehorst.ReesMehorst" alt="profile visitors" />
-</div>
+### 💬 Ask me about
+Full-stack web, data pipelines, game dev in Unity, studying ICT at HHS.
 
-<h1 align="center">👋 Hey there 👋</h1>
+### 📫 Reach me
+[LinkedIn](https://www.linkedin.com/in/meesrehorst) · Rotterdam / The Hague, NL 🇳🇱
 
-### 👩‍💻 About Me
-
-I'm Mees from the Netherlands 🇳🇱
-
-- 🔭 I'm a third-year HBO-ICT student at The Hague University of Applied Sciences
-- 📚 I'm currently learning Data- & AI-Driven Healthcare Innovation at Hogeschool Rotterdam
-- ⚡ I'm currently working on a full-stack application for motorcycle enthusiasts: [MotoSphere.nl](https://motosphere.nl/)
-
-### 🔥 My Stats
-
-<div align="center">
-  <img src="https://ghstats.dev/api/card?username=reesmehorst" alt="GitHub Stats Card" />
-</div>
+<p align="center">
+  <img src="https://ghstats.dev/api/card?username=reesmehorst" alt="GitHub stats" />
+</p>
