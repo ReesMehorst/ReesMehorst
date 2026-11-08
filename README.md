@@ -13,7 +13,7 @@
 - 🩺 Data- & AI-driven healthcare innovation minor at Hogeschool Rotterdam
 
 ### 🏍️ MotoSphere
-My main project: a Dutch companion app for motorcyclists, live at **[motosphere.nl](https://motosphere.nl/)**. It runs as a PWA and ships to iOS and Android through Capacitor. The code is private.
+My main project: a Dutch companion app for motorcyclists, live at **[motosphere.nl](https://motosphere.nl/)**. It runs as a PWA and ships to iOS and Android through Capacitor.
 
 - 🤖 **AI assistant** : chat with an assistant that knows motorcycles
 - 🌦️ **Motorweer** : weather and a rideability score for your location
@@ -30,7 +30,7 @@ My main project: a Dutch companion app for motorcyclists, live at **[motosphere.
   <img src="assets/motosphere/06-onderhoud.png" width="30%" alt="MotoSphere maintenance detail" />
 </p>
 
-**Built with:** FastAPI (Python) · PostgreSQL (Supabase) · React + Vite · Capacitor · Claude
+**Built with:** FastAPI (Python) · PostgreSQL (Supabase) · React + Vite · Capacitor · LLM's · RAG
 
 ### 📌 Featured
 | Project | What |
