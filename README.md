@@ -21,6 +21,15 @@ My main project: a Dutch companion app for motorcyclists, live at **[motosphere.
 - 🔧 **Garage & onderhoud** : your bikes and their maintenance
 - 📅 **Events & nieuws** : what's happening in the motorcycle scene
 
+<p align="center">
+  <img src="assets/motosphere/01-start.png" width="30%" alt="MotoSphere start screen" />
+  <img src="assets/motosphere/02-chat.png" width="30%" alt="MotoSphere AI assistant" />
+  <img src="assets/motosphere/03-weer.png" width="30%" alt="MotoSphere Motorweer" />
+  <img src="assets/motosphere/04-routes.png" width="30%" alt="MotoSphere Ritplanner" />
+  <img src="assets/motosphere/05-motor.png" width="30%" alt="MotoSphere garage" />
+  <img src="assets/motosphere/06-onderhoud.png" width="30%" alt="MotoSphere maintenance detail" />
+</p>
+
 **Built with:** FastAPI (Python) · PostgreSQL (Supabase) · React + Vite · Capacitor · Claude
 
 ### 📌 Featured
