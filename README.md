@@ -8,9 +8,20 @@
 </p>
 
 ### 🚀 Currently working on
-- 🏍️ **[MotoSphere](https://motosphere.nl/)** : a full-stack platform for motorcycle enthusiasts
+- 🏍️ **[MotoSphere](https://motosphere.nl/)** : a full-stack platform for motorcycle enthusiasts (details below)
 - 🧹 **[Bezem](https://github.com/ReesMehorst/Bezem)** : lightweight, open-source Windows PC cleaner in Rust
 - 🩺 Data- & AI-driven healthcare innovation minor at Hogeschool Rotterdam
+
+### 🏍️ MotoSphere
+My main project: a Dutch companion app for motorcyclists, live at **[motosphere.nl](https://motosphere.nl/)**. It runs as a PWA and ships to iOS and Android through Capacitor. The code is private.
+
+- 🤖 **AI assistant** : chat with an assistant that knows motorcycles
+- 🌦️ **Motorweer** : weather and a rideability score for your location
+- 🗺️ **Ritplanner** : plan round trips and A-to-B routes, with in-app navigation
+- 🔧 **Garage & onderhoud** : your bikes and their maintenance
+- 📅 **Events & nieuws** : what's happening in the motorcycle scene
+
+**Built with:** FastAPI (Python) · PostgreSQL (Supabase) · React + Vite · Capacitor · Claude
 
 ### 📌 Featured
 | Project | What |
